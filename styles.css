@@ -126,9 +126,7 @@ p, span, div {
  
 }
 
-.filter-bar-inner span {
-    font-weight: bold;
-}
+
 
 .filter-actions { 
     display: flex;
@@ -556,34 +554,37 @@ margin-bottom: 5px;
  white-space: nowrap;
 }
 
-.updated {
-    font-size: 24px;
+.course-meta .updated {
+    font-size: 14px;
     color: darkgreen;
-    white-space: nowrap;
+  
 }
 
 .details {
-    font-size: 12px;
-    color: #6d6d6d;
+    font-size: 15px;
+    color: #7f8897
+    
 }
 
 .skills-heading {
-    font-size: 18px;
+    font-size: 14px;
  
     color: #7f8897
 }
 
 .skills-list {
     list-style-type: none;
-    font-size: 14px;
-    color: #6d6d6d;
+  
+   
     line-height: 1.5;
 }
 
 .skills-list li {
     position: relative;
     padding-left: 20px;
+    color: #7f8897;
     margin: 5px 0;
+    font-size: 15px;
 }
 
 .skills-list li::before {
@@ -630,10 +631,11 @@ border-radius: 1px solid black;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
     padding: 0.50rem;
     font-size: 18px;
-    color: #775b33;
+   color: black;
     cursor: pointer;
+    
 }
-/* Card Base Styles */
+
 .Product_Page1-card {
     position: relative;
     overflow: visible;
@@ -651,7 +653,7 @@ border-radius: 1px solid black;
     padding: 20px;
 }
 
-/* Hover Target (Details) */
+
 .hover-target {
     position: relative;
 }
@@ -670,7 +672,7 @@ border-radius: 1px solid black;
 .hover-content-left{
     position: absolute;
     top: 0; /* Align the hover content to the top of the card */
-    left: -100%; /* Position the hover content to the left of the card */
+    left: -97%; /* Position the hover content to the left of the card */
     width: 300px; /* Adjust the width as needed */
     background-color: #fff; /* Background color for the hover content */
     padding: 20px; /* Add padding inside the hover content */
