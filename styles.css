@@ -167,7 +167,7 @@ padding-bottom: 7px;
   
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
     padding: 0.50rem;
-    font-size: 18px;
+    font-size: 20px;
     color: #775b33;
     cursor: pointer;
 }
@@ -596,20 +596,19 @@ margin-bottom: 5px;
 
 .actions {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    align-items: flex-end;
+    justify-content: end;
 }
 
 .add-to-cart {
     background-color:#ec5252;
   width: 100%;
-    border: none;
    
-    color: #fff;
+   
+    
     font-size: 14px;
     border-radius: 5px;
-    cursor: pointer;
-    display: flex;
+   
    justify-content: center;
     
 }
