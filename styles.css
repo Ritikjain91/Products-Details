@@ -328,7 +328,7 @@ margin-bottom: 5px;
 }
 
 
-.product_Page1-ribbon {
+.product_page1-ribbon {
     background-color: rgba(53, 143, 247, .1);
     color: #358ff7 ;
 
@@ -336,7 +336,7 @@ margin-bottom: 5px;
     border-radius: 3px;
     border: 0;
 }
-.product_Page1-card-text a{
+.product_page1-card-text a{
     color: #7f8897;
 }
 .product_Page1-course-badge1{
@@ -347,7 +347,7 @@ margin-bottom: 5px;
     border-radius: 3px;
     margin-bottom: 5px;
 }
-.product_Page1-card-title a {
+.product_page1-card-title a {
   
     color: #233d63;
     
@@ -411,7 +411,7 @@ margin-bottom: 5px;
 
 }
 /* Utility classes */
-.product_Page1-d-block {
+.product_page1_d_block {
     display: block;
 }
 
@@ -436,7 +436,7 @@ margin-bottom: 5px;
     padding-top: 15px;
 }
 
-.product_Page1-d-flex {
+.product_page1-d-flex {
     display: flex;
 }
 
