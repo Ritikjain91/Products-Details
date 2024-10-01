@@ -279,7 +279,7 @@ padding-bottom: 7px;
 /* Card styles */
 
 
-.product_Page1-card-image {
+.product_page1_card_image {
     position: relative;
 }
 
@@ -496,7 +496,7 @@ margin-bottom: 5px;
     border-radius: 4px;
     transition: background-color 0.3s ease;
 }
-.product_Page1-card-body a{
+.product_page1-card-body a{
     text-decoration: none;
 }
 
@@ -642,12 +642,12 @@ border-radius: 1px solid black;
     
 }
 
-.product_Page1-card-image img {
+.product_page1_card_image img {
     width: 100%;
     height: auto;
 }
 
-.product_Page1-card-body {
+.product_page1-card-body {
     padding: 20px;
 }
 
