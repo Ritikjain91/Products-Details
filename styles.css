@@ -107,7 +107,7 @@ font-weight: 400;
 
     
 }
-.product_Page1-card-text{
+.product_Page1_card_text{
     font-size: 1em;
   
 
@@ -257,7 +257,7 @@ padding-bottom: 7px;
 }
 
 /* Container and Row styling */
-.product_page1-row {
+.product_page1_row {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -283,7 +283,7 @@ padding-bottom: 7px;
     position: relative;
 }
 
-.product_Page1-card-img-top {
+.product_page1_card_img_top {
   
     border-radius: 10px 10px 0 0;
 }
