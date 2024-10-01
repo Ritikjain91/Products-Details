@@ -24,7 +24,7 @@ font-weight: 400;
 
 
 /* Section styling */
-.breadcrumb-area {
+.acadlix_breadcrumb_area {
     padding: 40px 0;
     background-image: url('./images/breadcrumb-bg.jpg'); 
     background-size: cover;
@@ -33,7 +33,7 @@ font-weight: 400;
 }
 
 /* Overlay styling */
-.overlay {
+.acadlix_overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -44,7 +44,7 @@ font-weight: 400;
 }
 
 /* Container styling */
-.container {
+.acadlix_container {
     position: relative;
     z-index: 2;
     max-width: 1200px;
@@ -53,7 +53,7 @@ font-weight: 400;
 }
 
 /* Breadcrumb content styling */
-.breadcrumb-content {
+.acadlix_breadcrumb_content {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -61,7 +61,7 @@ font-weight: 400;
 }
 
 /* Heading styling */
-.section-heading {
+.acadlix_section_heading {
     color: white;
 }
 
