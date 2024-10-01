@@ -65,36 +65,36 @@ font-weight: 400;
     color: white;
 }
 
-.section-title {
+.acadlix_section_title {
     font-size: 36px;
     color: white;
     margin: 0;
 }
 
 /* Breadcrumb list styling */
-.breadcrumb-list {
+.acadlix_breadcrumb_list {
     display: flex;
     align-items: center;
     list-style: none;
 }
 
-.breadcrumb-list li {
+.acadlix_breadcrumb_list li {
     margin-right: 10px;
     color: #7f8897;
 }
 
-.breadcrumb-list li a {
+.acadlix_breadcrumb_list li a {
     color: #7f8897;
     text-decoration: none;
 }
 
-.breadcrumb-list li:not(:last-child)::after {
+.acadlix_breadcrumb_list li:not(:last-child)::after {
     content: ">";
     margin-left: 10px;
     color: #7f8897;
 
 }
-.filter-bar {
+.acadlix_filter_bar {
     padding: 13px;
     background-color: white;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
