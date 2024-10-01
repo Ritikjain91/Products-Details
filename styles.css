@@ -257,14 +257,14 @@ padding-bottom: 7px;
 }
 
 /* Container and Row styling */
-.product_Page1-row {
+.product_page1-row {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     
 }
 
-.product_page1_col_lg {
+.acadlix_product_page1_col_lg {
     width: 29.5%; 
     padding: 15px;
     position: relative;
@@ -387,7 +387,7 @@ margin-bottom: 5px;
 
 /* Responsive styles */
 @media (max-width: 991px ) and (min-width:761px) {
-    .product_page1_col_lg {
+    .acadlix_product_page1_col_lg {
         width: 45%;
     }
     .acadlix_filter_bar_inner h4 {
@@ -397,7 +397,7 @@ margin-bottom: 5px;
    
 }
 @media (max-width:760px){
-    .product_page1_col_lg {
+    .acadlix_product_page1_col_lg {
         width: 100%;
     }
     .acadlix_filter_bar{
