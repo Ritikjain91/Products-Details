@@ -288,7 +288,7 @@ padding-bottom: 7px;
     border-radius: 10px 10px 0 0;
 }
 
-.acadlix_product_page-course-badge-labels {
+.acadlix_product_page_course_badge_labels {
     position: absolute;
     top: 10px;
     left: 10px;
@@ -347,7 +347,7 @@ margin-bottom: 5px;
     border-radius: 3px;
     margin-bottom: 5px;
 }
-.acadlix_product_page-card-title a {
+.acadlix_product_page_card_title a {
   
     color: #233d63;
     
