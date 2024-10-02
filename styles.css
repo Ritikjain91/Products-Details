@@ -360,6 +360,7 @@ margin-bottom: 5px;
 .product_page-before-price {
     text-decoration: line-through;
     color: #777;
+    font-weight: 500;
 }
 
 
@@ -419,13 +420,10 @@ margin-bottom: 5px;
     text-align: center;
 }
 
-.product_page-font-weight-bold {
+.product_page-card-price {
     font-weight: bold;
 }
 
-.product_page-font-weight-medium {
-    font-weight: 500;
-}
 
 
 .product_page-mb-3 {
