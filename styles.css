@@ -336,7 +336,7 @@ margin-bottom: 5px;
     border-radius: 3px;
     border: 0;
 }
-.product_page-card-text a{
+.acadlix_product_page_card_text a{
     color: #7f8897;
 }
 .product_page-course-badge1{
@@ -444,12 +444,12 @@ margin-bottom: 5px;
 
 
 
-.product_page-py-2 {
+.product_page_component {
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
-.acadlix_product_page-rating-total {
+.acadlix_product_page_rating_total {
     padding-left: 5px;
     font-weight: 500;
     color: #333;
