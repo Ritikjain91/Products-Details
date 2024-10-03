@@ -162,7 +162,7 @@ padding-bottom: 7px;
     box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
 }
 
-.acadlix_product_page-icon-element{
+.acadlix_product_page_icon_element{
     border-radius: 50%; /* Creates a circular shape */
   
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
@@ -420,7 +420,7 @@ margin-bottom: 5px;
     text-align: center;
 }
 
-.product_page-card-price {
+.acadlix_product_page_card_price {
     font-weight: bold;
 }
 
