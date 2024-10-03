@@ -282,7 +282,7 @@ padding-bottom: 7px;
    
 }
 
-.product_page-course-badge {
+.acadlix_product_page_course_badgebestseller {
     background-color: #ff9800;
     color: #fff;
     padding: 5px 10px;
@@ -291,9 +291,13 @@ padding-bottom: 7px;
     margin-bottom: 5px;
 }
 
-.product_page-course-badge.product_page-blue {
+ .acadlix_product_page_blue {
     background-color: #2196f3;
     margin-left: 5px;
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 3px;
+    margin-bottom: 5px;
 }
 .acadlix_product_page_course_badgefree{
     background-color: #38bb0c;
@@ -550,7 +554,7 @@ margin-bottom: 5px;
     font-size: 12px;
 } */
 
-.actions {
+.acadlix_actions {
     display: flex;
     align-items: flex-end;
     justify-content: end;
@@ -646,7 +650,7 @@ border-radius: 1px solid black;
     
 } */
 
-.course-title {
+/* .course-title {
     font-size: 20px;
     color: #333;
    margin: 0;
@@ -658,9 +662,9 @@ border-radius: 1px solid black;
     margin-bottom: 5px;
     font-size: 12px;
     color: #777;
-}
+} */
 
-.skills-heading {
+/* .skills-heading {
     
     margin-top: 10px;
 }
@@ -670,15 +674,15 @@ border-radius: 1px solid black;
     padding-left: 0;
     font-size: 14px;
     color: #555;
-}
+} */
 
-.skills-list li {
+/* .skills-list li {
     margin-bottom: 10px;
-}
+} */
 
 
 
-.actions button {
+.acadlix_actions button {
  
     color: white;
     border: none;
@@ -689,7 +693,7 @@ border-radius: 1px solid black;
     align-items: center;
 }
 
-.actions button i {
+.acadlix_actions button i {
     margin-right: 5px;
 }
 
