@@ -162,7 +162,7 @@ padding-bottom: 7px;
     box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
 }
 
-.product_page-icon-element{
+.acadlix_product_page-icon-element{
     border-radius: 50%; /* Creates a circular shape */
   
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
@@ -317,7 +317,7 @@ padding-bottom: 7px;
     border-radius: 3px;
     margin-bottom: 5px;
 }
-.product_page-course-badge4{
+.product_page_course_badgehighestrated{
 
 background-color: #3aaae1;
 color: #fff;
@@ -328,7 +328,7 @@ margin-bottom: 5px;
 }
 
 
-.product_page-ribbon {
+.acadlix_product_page_ribbon {
     background-color: rgba(53, 143, 247, .1);
     color: #358ff7 ;
 
@@ -357,7 +357,7 @@ margin-bottom: 5px;
 }
 
 
-.product_page-before-price {
+.acadlix_product_page_before_price {
     text-decoration: line-through;
     color: #777;
     font-weight: 500;
@@ -463,10 +463,10 @@ margin-bottom: 5px;
 
 
 
-.product_page-review-stars {
+.acadlix_product_page_review_stars {
     color: #f68a03;
 }
-.product_page-rating-number{
+.acadlix_product_page_rating_number{
     color: #233d63;
     font-weight: 400;
 }
@@ -490,7 +490,7 @@ margin-bottom: 5px;
     border-radius: 4px;
     transition: background-color 0.3s ease;
 }
-.product_page-card-body a{
+.acadlix_product_page_card_body a{
     text-decoration: none;
 }
 
@@ -641,7 +641,7 @@ border-radius: 1px solid black;
     height: auto;
 }
 
-.product_page-card-body {
+.acadlix_product_page_card_body {
     padding: 20px;
 }
 
