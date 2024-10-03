@@ -107,7 +107,7 @@ font-weight: 400;
 
     
 }
-.product_page_card_text{
+.acadlix_product_page_card_text{
     font-size: 1em;
   
 
@@ -237,24 +237,10 @@ padding-bottom: 7px;
 
 
 
-.filter-section {
-    margin-bottom: 20px;
-}
 
-.filter-section h3 {
-    font-size: 18px;
-    font-weight: 600;
-}
 
-.filter-section label {
-    display: block;
-    font-size: 15px;
-    margin-bottom: 10px;
-}
 
-.filter-section input {
-    margin-right: 5px;
-}
+
 
 /* Container and Row styling */
 .acadlix_product_page_row {
@@ -309,7 +295,7 @@ padding-bottom: 7px;
     background-color: #2196f3;
     margin-left: 5px;
 }
-.product_page-course-badge3{
+.acadlix_product_page_course_badgefree{
     background-color: #38bb0c;
     color: #fff;
     padding: 5px 10px;
@@ -317,7 +303,7 @@ padding-bottom: 7px;
     border-radius: 3px;
     margin-bottom: 5px;
 }
-.product_page_course_badgehighestrated{
+.acadlix_product_page_course_badgehighestrated{
 
 background-color: #3aaae1;
 color: #fff;
@@ -339,7 +325,7 @@ margin-bottom: 5px;
 .acadlix_product_page_card_text a{
     color: #7f8897;
 }
-.product_page-course-badge1{
+.acadlix_product_page_course_badgefeatured{
     background-color:#dd493d;
     color: #fff;
     padding: 5px 10px;
@@ -367,18 +353,10 @@ margin-bottom: 5px;
 
 
 /* Pagination */
-.product_page-pagination-box {
-    margin-top: 20px;
-}
 
-.product_page-page-link {
-    color: #333;
-    font-size: 16px;
-}
 
-.product_page-page-link:hover {
-    color: #007bff;
-}
+
+
 
 .product_page-page-item.active .product_page-page-link {
     background-color: #007bff;
@@ -416,9 +394,6 @@ margin-bottom: 5px;
     display: block;
 }
 
-.product_page-text-center {
-    text-align: center;
-}
 
 .acadlix_product_page_card_price {
     font-weight: bold;
@@ -426,13 +401,9 @@ margin-bottom: 5px;
 
 
 
-.product_page-mb-3 {
-    margin-bottom: 15px;
-}
 
-.product_page-pt-3 {
-    padding-top: 15px;
-}
+
+
 
 .acadlix_product_page_add_to_cart {
     display: flex;
@@ -442,7 +413,7 @@ margin-bottom: 5px;
 
 
 
-.product_page_component {
+.acadlix_product_page_component {
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -512,59 +483,50 @@ margin-bottom: 5px;
     margin-top: 20px;
     margin-bottom: 15px;
 }
-.course-card {
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    width: 320px;
+
+
+/* .course-info {
     display: flex;
     flex-direction: column;
-    gap: 15px;
-}
-
-.course-info {
-    display: flex;
-    flex-direction: column;
-}
+} */
 
 
 
-.course-meta {
+/* .course-meta {
     display: flex;
     align-items: center;
     gap: 10px;
     margin: 10px 0;
-}
+} */
 
-.bestseller {
+/* .bestseller {
     background-color: #ebd6d9;
     padding: 5px 28px;
     font-size: 42px;
     border-radius: 3px;
     color: #4e0505;
  white-space: nowrap;
-}
+} */
 
-.course-meta .updated {
+/* .course-meta .updated {
     font-size: 14px;
     color: rgb(60, 184, 60);
   
-}
+} */
 
-.details {
+/* .details {
     font-size: 15px;
     color: #7f8897
     
-}
+} */
 
-.skills-heading {
+/* .skills-heading {
     font-size: 14px;
  
     color: #7f8897
-}
+} */
 
-.skills-list {
+/* .skills-list {
     list-style-type: none;
   
    
@@ -586,7 +548,7 @@ margin-bottom: 5px;
     left: 0;
     top: 0;
     font-size: 12px;
-}
+} */
 
 .actions {
     display: flex;
@@ -594,7 +556,7 @@ margin-bottom: 5px;
     justify-content: end;
 }
 
-.add-to-cart {
+.acadlix_add_to_cart {
     background-color:#ec5252;
   width: 100%;
    
@@ -607,15 +569,15 @@ margin-bottom: 5px;
     
 }
 
-.add-to-cart i {
+.acadlix_add_to_cart i {
     
     margin-right: 5px;
     
 }
 
-.wishlist {
+/* .wishlist {
    
-    border-radius: 50%; /* Creates a circular shape */
+    border-radius: 50%;
    
 border-radius: 1px solid black;
   
@@ -625,7 +587,7 @@ border-radius: 1px solid black;
    color: black;
     cursor: pointer;
     
-}
+} */
 
 .acadlix_product_page_card {
     position: relative;
@@ -647,42 +609,42 @@ border-radius: 1px solid black;
 
 
 
-.hover-content {
+/* .hover-content {
     position: absolute;
-    top: 0; /* Align the hover content to the top of the card */
-    left: 105%; /* Position the hover content to the left of the card */
-    width: 300px; /* Adjust the width as needed */
-    background-color: #fff; /* Background color for the hover content */
-    padding: 20px; /* Add padding inside the hover content */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional shadow for better visibility */
-    z-index: 10; /* Ensure the hover content appears on top */
-    display: none; /* Initially hidden */
-}
-.hover-content-left{
+    top: 0; 
+    left: 105%;
+    width: 300px; 
+    background-color: #fff; 
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 10;
+    display: none; 
+} */
+/* .hover-content-left{
     position: absolute;
-    top: 0; /* Align the hover content to the top of the card */
-    left: -97%; /* Position the hover content to the left of the card */
-    width: 300px; /* Adjust the width as needed */
-    background-color: #fff; /* Background color for the hover content */
-    padding: 20px; /* Add padding inside the hover content */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional shadow for better visibility */
-    z-index: 10; /* Ensure the hover content appears on top */
-    display: none; /* Initially hidden */
-}
+    top: 0; 
+    left: -97%; 
+    width: 300px; 
+    background-color: #fff;
+    padding: 20px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 10; 
+    display: none; 
+} */
 
 
-.course-info {
+/* .course-info {
     text-align: left;
-}
+} */
 
-.author {
+/* .author {
     font-size: 16px;
     color: #7f8897;
     margin-bottom: 10px;
     margin-top: 10px;
 
     
-}
+} */
 
 .course-title {
     font-size: 20px;
@@ -731,10 +693,10 @@ border-radius: 1px solid black;
     margin-right: 5px;
 }
 
-.product_page-card:hover .hover-content {
-    display: block; /* Show hover content when the card is hovered */
+/* .acadlix_product_page_card:hover .hover-content {
+    display: block; 
 }
-.product_page-card:hover .hover-content-left {
-    display: block; /* Show hover content when the card is hovered */
-}
+.acadlix_product_page_card:hover .hover-content-left {
+    display: block; 
+} */
 
